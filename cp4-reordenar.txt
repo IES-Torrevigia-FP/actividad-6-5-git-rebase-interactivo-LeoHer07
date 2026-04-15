@@ -1,0 +1,4 @@
+e5f6d70 Modificado app.md nuevamente
+8a92b1a Agregado contenido en app.md
+7d3c4b1 Primer commit
+Reordenar commits es útil para hacer el historial más lógico, por ejemplo, moviendo el refinamiento de una funcionalidad después de la implementación inicial.

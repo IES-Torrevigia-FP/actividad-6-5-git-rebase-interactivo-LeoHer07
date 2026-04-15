@@ -1,0 +1,3 @@
+3c47b89 (HEAD -> main) add deadline
+bb807e3 Initial commit
+Sirve para mantener un historial limpio, uniendo cambios relacionados y facilitando la revisión del código.

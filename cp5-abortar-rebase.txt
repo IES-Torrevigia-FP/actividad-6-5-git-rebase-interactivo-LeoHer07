@@ -1,0 +1,2 @@
+git rebase --abort (comando utilizado)
+git rebase --abort se usa para cancelar un rebase si ocurre un conflicto que no deseas resolver o si simplemente no quieres continuar con los cambios. Al ejecutar este comando, Git revierte el repositorio al estado original, como si el rebase nunca hubiera comenzado, permitiéndote corregir el problema o decidir otro enfoque sin perder trabajo.

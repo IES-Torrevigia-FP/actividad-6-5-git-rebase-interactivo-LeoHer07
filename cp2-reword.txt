@@ -1,0 +1,8 @@
+
+2dbaccb (HEAD -> main) otro commit
+7abf15c arreglo
+accd0b3 wip 1
+cf921bd Commmit 1: version inicial
+6f28ffa (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+reword en un rebase interactivo sirve para cambiar solo el mensaje de un commit. Git te permite editarlo sin modificar el contenido, mejorando la claridad del historial.
